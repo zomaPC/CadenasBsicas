@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13207280-027a-464a-9cd4-1ffde41561a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Basicas02/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basicas02/src/basicas02/Basicas02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/proyecto05/Proyecto05.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\exels\Documents\NetBeansProjects\Basico02\Proyecto05\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1brXERU2126bggWh41WrPdsUzNU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13207280-027a-464a-9cd4-1ffde41561a2" name="Default Changelist" comment="" />
+      <created>1589391073868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589391073868</updated>
+    </task>
+    <servers />
+  </component>
+</project>
